@@ -1,0 +1,3 @@
+/Users/liuj12/Desktop/renal_donor_selected/patient_004.nii.gz
+/Users/liuj12/Desktop/renal_donor_selected/patient_005.nii.gz
+/Users/liuj12/Desktop/renal_donor_selected/patient_006.nii.gz
