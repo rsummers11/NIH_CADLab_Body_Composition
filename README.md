@@ -31,7 +31,7 @@ Follow these steps to set up the environment:
 ## Model Weights
 
 Download the model weights from the following link:
-- [Model Weights](https://app.box.com/s/n2dwxhowzdnbamsxb84ukqcrijky6qrq)
+- [Model Weights](https://nih.app.box.com/folder/313572297206?box_source=send_download_preview_email&s=n2dwxhowzdnbamsxb84ukqcrijky6qrq)
 
 Save the model weights as follows:
 - **2D Model**: `2D_MIST/trained_model`
