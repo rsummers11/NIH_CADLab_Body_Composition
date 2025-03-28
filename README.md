@@ -66,10 +66,10 @@ Training_data/
 Run the following command to train the model:
 
 ```bash
-python nnunet_predict.py -si Training_data/strong_labels -wi Training_data/weak_labels -c fat_seg_dual_branch -o model_file_fold
+python train.py -si Training_data/strong_labels -wi Training_data/weak_labels -c fat_seg_dual_branch -o model_file_fold
 ```
 
-### 3. Inference on 3D CT Scans
+### 3. Inference on 3D CT Scans using 2D MIST model
 
 Use the following commands for inference:
 
