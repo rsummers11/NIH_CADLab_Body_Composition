@@ -90,7 +90,7 @@ Here, `input_file_list.txt` should contain paths to the CT files.
 To run the body composition model, use the following command structure:
 
 ```bash
-usage: tmp.py [-h] [-i INPUT_DATA] [-o OUTPUT_DATA] [-m MODEL_DIRECTORY] [-v] [-f] [-d device]
+usage: nnunet_predict.py [-h] [-i INPUT_DATA] [-o OUTPUT_DATA] [-m MODEL_DIRECTORY] [-v] [-f] [-d device]
 ```
 
 ### Example Commands:
@@ -123,6 +123,7 @@ usage: tmp.py [-h] [-i INPUT_DATA] [-o OUTPUT_DATA] [-m MODEL_DIRECTORY] [-v] [-
 ### Important Notes:
 - The `model_weights` folder should contain `fold0`, `fold1`, etc.
 - The program attempts to create file links first; it will fall back to file copy if linking fails.
+- The use of this software is subject to the Terms of Use document in this repository.
 
 ## Citing This Work
 
